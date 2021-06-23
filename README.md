@@ -1,4 +1,4 @@
-# CV_TyHM_1_2021
+# CV_TyHM
 Esta es la entrega del trabajo completo del módulo 1. Creación de Textos e Hipertextos
 
 <p>
