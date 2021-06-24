@@ -5,7 +5,7 @@ Esta es la entrega del trabajo completo del módulo 1. Creación de Textos e Hip
 
 Mi CV puede descargarse en este link
 <p>
-[CV_actualizado](CV Daniela.zip)
+[CV actualizado](CV Daniela.zip)
 
   Otra manera de compartir
   
