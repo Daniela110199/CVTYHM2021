@@ -9,4 +9,6 @@ Mi CV puede descargarse en este link
 
   Otra manera de compartir
   
+  <a href="https://github.com/Daniela110199/CV_TyHM_1_2021/blob/87d4ba0d10d864e1d3d1a359983106bbd74bcaf9/CV%20Daniela.zip"> CV Actualizado Junio 2021 </a>
+  
   
